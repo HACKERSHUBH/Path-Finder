@@ -7,11 +7,6 @@ Here are some basic steps of installing and working of BTP 'PathFinder' web appl
 3. Open the local server MqSql into any of your favourite browser.(in your localhost phpmyadmin).
 4. Import the data-base 'btp.sql' file which has been provided.
 5. Run the website in your local machine.
- 
- For Python Application-
-1. Install the PyCharm Professional.
-2. Import the Data from Dataset folder.
-3. Run into your editor.
 
-Working Demo of the Project:-
+Working Video Demo of the Project:-
 https://www.youtube.com/watch?v=xiDM2vZXWiU&feature=youtu.be
